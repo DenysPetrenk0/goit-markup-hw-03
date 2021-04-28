@@ -55,7 +55,8 @@ ul {
 }
 
 .navigation {
-    display: flex;    
+    display: flex; 
+    align-items: center;     
 }
 
 .site-nav {
